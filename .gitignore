@@ -1,0 +1,21 @@
+# Compilados
+bin/
+*.class
+
+# Configuraciones de Eclipse
+.settings/
+.classpath
+.project
+
+# Archivos temporales
+*.log
+.DS_Store
+Thumbs.db
+
+# Archivos de salida de Maven/Gradle (si los usás)
+target/
+build/
+
+# Librerías descargadas (si las manejás con libs externas)
+*.jar
+
